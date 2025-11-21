@@ -15,7 +15,7 @@ Navigate to any Linux environment installed on the system or installed inside a 
 
 ### Step 2:
 
-Write the C Program using Linux Process API - pipe(), fifo()
+Write the C Program using Linux Process API - pipe(), fifo().
 
 ### Step 3:
 
@@ -101,7 +101,7 @@ void client(int wfd, int rfd) {
 ```
 
 ## OUTPUT
-![alt text](img/Ex3n1.png)
+![img1](img/Ex3n1.png)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -197,7 +197,7 @@ void client() {
 
 
 ## OUTPUT
-![alt text](img/Ex3n2.png)
+![img2](img/Ex3n2.png)
 
 
 # RESULT:
